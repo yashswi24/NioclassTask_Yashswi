@@ -1,0 +1,175 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Solve : $\n\\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta\n$",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the expansion of $ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$. Find the number of terms",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+          "Oxygen",
+          "Hydrogen",
+          "Neon"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If $(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots  C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$",
+        "correct_answer": "Candela",
+        "incorrect_answers": [
+          "Willow",
+          "Blanche",
+          "Spark"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "If $\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$, then $k=?$",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the expansion of $ \\left(\\frac{4x}{5}-\\frac{5}{2x}\\right)^9\\\\$\nFind the 7th term.",
+        "correct_answer": "Diane",
+        "incorrect_answers": [
+          "Sakura",
+          "Ayano",
+          "Sheska"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the expansion of $ \\left(ax^2+\\frac{1}{bx}\\right)^{11}$, find the coefficient of $x^7$.",
+        "correct_answer": "Vincent Vega",
+        "incorrect_answers": [
+          "Jules Winnfield",
+          "Jimmie Dimmick",
+          "Butch Coolidge"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Solve: $\\int_{-4}^3|x^2 -4| d x$",
+        "correct_answer": "Holden Caulfield",
+        "incorrect_answers": [
+          "Fletcher Christian",
+          "Jay Gatsby",
+          "Randall Flagg"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Solve : $\n\\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta\n$",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the expansion of $ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$. Find the number of terms",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+          "Oxygen",
+          "Hydrogen",
+          "Neon"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If $(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots  C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$",
+        "correct_answer": "Candela",
+        "incorrect_answers": [
+          "Willow",
+          "Blanche",
+          "Spark"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "If $\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$, then $k=?$",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the expansion of $ \\left(\\frac{4x}{5}-\\frac{5}{2x}\\right)^9\\\\$\nFind the 7th term.",
+        "correct_answer": "Diane",
+        "incorrect_answers": [
+          "Sakura",
+          "Ayano",
+          "Sheska"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the expansion of $ \\left(ax^2+\\frac{1}{bx}\\right)^{11}$, find the coefficient of $x^7$.",
+        "correct_answer": "Vincent Vega",
+        "incorrect_answers": [
+          "Jules Winnfield",
+          "Jimmie Dimmick",
+          "Butch Coolidge"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Solve: $\\int_{-4}^3|x^2 -4| d x$",
+        "correct_answer": "Holden Caulfield",
+        "incorrect_answers": [
+          "Fletcher Christian",
+          "Jay Gatsby",
+          "Randall Flagg"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Solve : $\n\\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta\n$",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      }
+    ]
+  }
